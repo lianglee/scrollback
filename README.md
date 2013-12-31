@@ -27,6 +27,7 @@ Installation
 * Make sure to name folder from "scrollback-master" to "scrollback".
 * Make sure there is start.php in mod/scrollback/
 * Enable it.
+* edit mod/scrollback/room_id.php ( add your room id )
 * Run upgrade.php and flush cache.
 
 If you still face any problem report issue at https://github.com/lianglee/scrollback/issues
